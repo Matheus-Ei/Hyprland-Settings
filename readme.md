@@ -5,4 +5,5 @@ Here are my personal hyprland settings
 - Run on arch linux
 - Download gnome themes with `sudo pacman -S gnome-themes-extra`
 - Download hyprland with `sudo pacman -S hyprland`
-- Download gtk3 with `sudo pacman -S gtk3`
+- Download gtk4 with `sudo pacman -S gtk4`
+- Download hyprpaper with `pacman -S hyprpaper`
